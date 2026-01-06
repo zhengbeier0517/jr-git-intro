@@ -1,2 +1,2 @@
 This is second.md.
- new new version
+ new version
